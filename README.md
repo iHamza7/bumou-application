@@ -41,8 +41,8 @@
 ### Frontend (Flutter)
 - **Flutter 3.x** with Dart
 - `flutter_localizations`, `intl`
-- `http` or `dio` for REST API
-- State management: Provider / Riverpod / Bloc *(specify if needed)*
+- `dio` for REST API
+- State management: Provider / get
 - Custom theming and responsive UI
 
 ### Backend (Next.js)
